@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo&family=Source+Sans+3:wght@200&display=swap');
+
+
+h1 {
+  font-size: 92px;
+  background: -webkit-linear-gradient(#FFA500, #000000);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.logo-img {
+  width: 150px; /* Adjust the width as needed */
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}
+
+
+#footerCard {
+  background-color: #8B8680;
+}
+
